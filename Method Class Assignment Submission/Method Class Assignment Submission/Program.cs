@@ -13,7 +13,7 @@ namespace Method_Class_Assignment_Submission
             myMethods mathOp = new myMethods(); // Instantiating the class
 
             mathOp.math(50, 100); // Calling the method & passing 2 numbers
-                                  // Also specifies by parameters by name
+            mathOp.math(num2: 50, num1: 100); // specifies by parameters by name
             Console.ReadLine();
         }
     }
