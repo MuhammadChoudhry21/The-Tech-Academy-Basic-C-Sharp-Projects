@@ -9,7 +9,7 @@ namespace Operators_Assignment_Submission
     public class Employee //Creating an Employee class
     {
         // Giving it properties
-        public string ID { get; set; }
+        public int ID { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
 

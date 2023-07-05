@@ -1,2 +1,9 @@
 D:\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.AssemblyReference.cache
 D:\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.exe.config
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.exe
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\Operators Assignment Submission.pdb
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.exe
+C:\Users\User\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\Operators Assignment Submission.pdb
