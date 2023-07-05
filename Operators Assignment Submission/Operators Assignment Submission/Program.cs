@@ -15,7 +15,7 @@ namespace Operators_Assignment_Submission
             Employee employee2 = new Employee() { ID = "two", firstName = "Marie", lastName = "Hill" };
 
             // Trying to compare ID rpoperty of each object
-            employee1 = employee1.ID == employee2.ID;
+            Console.WriteLine(employee1.ID == employee2.ID);
             Console.ReadLine();
         }
     }

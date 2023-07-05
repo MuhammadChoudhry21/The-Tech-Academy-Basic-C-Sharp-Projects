@@ -14,17 +14,29 @@ namespace Operators_Assignment_Submission
         public string lastName { get; set; }
 
         // Creating == and != overload operator
-        public static Employee operator== (Employee employeeOne, Employee employeeTwo)
+        public static bool operator ==(Employee employeeOne, Employee employeeTwo)
         {
-            Console.WriteLine("They are equal");
-            return true;
-            
+            if (employeeOne.ID == employeeTwo.ID)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
-        public static Employee operator!= (Employee employeeOne, Employee employeeTwo)
+        public static bool operator !=(Employee employeeOne, Employee employeeTwo)
         {
-            Console.WriteLine("They are not equal");
-            return false;
+            if (employeeOne.ID == employeeTwo.ID)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
+
     }
 }
