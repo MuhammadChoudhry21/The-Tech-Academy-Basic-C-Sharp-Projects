@@ -3,7 +3,7 @@
 My small projects made using C# and .NET Framework
 
 ## Projects:
--[Car Insurance]([https://github.com/MuhammadChoudhry21/JavaScript-Projects/tree/main/Pizza_Project](https://github.com/MuhammadChoudhry21/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance))
+-[Car Insurance](https://github.com/MuhammadChoudhry21/JavaScript-Projects/tree/main/Pizza_Project](https://github.com/MuhammadChoudhry21/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 -[News letter](https://github.com/MuhammadChoudhry21/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/NewsLetterAppMVC)
 
