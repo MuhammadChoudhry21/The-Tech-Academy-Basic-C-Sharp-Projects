@@ -1,0 +1,5 @@
+D:\Basic_C#_Programs\Final Assignment Submission\Final Assignment Submission\obj\Debug\net6.0\Final Assignment Submission.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Final Assignment Submission\Final Assignment Submission\obj\Debug\net6.0\Final Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_C#_Programs\Final Assignment Submission\Final Assignment Submission\obj\Debug\net6.0\Final Assignment Submission.AssemblyInfoInputs.cache
+D:\Basic_C#_Programs\Final Assignment Submission\Final Assignment Submission\obj\Debug\net6.0\Final Assignment Submission.AssemblyInfo.cs
+D:\Basic_C#_Programs\Final Assignment Submission\Final Assignment Submission\obj\Debug\net6.0\Final Assignment Submission.csproj.CoreCompileInputs.cache
