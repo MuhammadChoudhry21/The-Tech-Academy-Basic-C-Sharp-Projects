@@ -1,2 +1,5 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-Coding projects from this course
+
+My small projects made using C# and .NET Framework
+
+## Projects:
